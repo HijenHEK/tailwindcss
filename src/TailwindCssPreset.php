@@ -31,7 +31,7 @@ class TailwindCssPreset extends Preset
         return array_merge([
             '@tailwindcss/ui' => '^0.3',
             'autoprefixer' => '^9.6',
-            'laravel-mix' => '^5.0.1',
+            'laravel-mix' => '^6.0.19',
             'postcss-import' => '^12.0',
             'postcss-nested' => '^4.2',
             'tailwindcss' => '^1.8',
